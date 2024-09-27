@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://work.110903.xyz/$1"
+      "dest": "https://iwara.tv/$1"
     }
   ]
 }
