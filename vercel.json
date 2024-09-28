@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://iwara.tv/$1"
+      "dest": "https://shijinyia-uptime-kuma.hf.space/$1"
     }
   ]
 }
