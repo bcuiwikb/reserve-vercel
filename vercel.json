@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://tg-cloud-dl.noyes.in/$1"
+      "dest": "https://work.110903.xyz/$1"
     }
   ]
 }
