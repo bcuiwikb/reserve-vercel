@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://shijinyia-uptime-kuma.hf.space/$1"
+      "dest": "https://tg-cloud-dl.noyes.in/$1"
     }
   ]
 }
