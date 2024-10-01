@@ -1,8 +1,9 @@
 {
-  "routes": [
+  "redirects": [
     {
-      "src": "/(.*)",
-      "dest": "https://work.110903.xyz/$1"
+      "source": "/.*",
+      "destination": "https://00.110903.xyz/$1",
+      "permanent": true
     }
   ]
 }
